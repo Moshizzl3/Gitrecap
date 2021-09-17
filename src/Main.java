@@ -3,6 +3,7 @@ public class Main {
     System.out.println("I am a git project");
     System.out.println("I am a test branch");
     System.out.println("I am another testbranch but from intellij terminal");
+    System.out.println("Hej hej dette er endnu en test");
 
   }
 }
